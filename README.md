@@ -11,6 +11,11 @@ This project  use **ReactJS** mainly, I started this project to improve my skill
 - Create a Room Chat
 - Send a message.
 
+### Possible NEW Features:
+- Store user' session after Login with Google.
+- Create a drop down menu in settings that allows user CHANGE THEME or LOGOUT.
+- Delete message by id.
+
 ### Clone it & Start the server
 
 `` git clone https://github.com/gabrielgyns/whatsapp-clone.git `` to clone the project
